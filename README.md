@@ -60,4 +60,8 @@ SYNTEX USAGE
 -Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
 -Schema free - easy to develop and maintain.
 -Web-services API - Can be used with any programming language that has support for HTTP.
-Illustrations
+
+//Illustrations
+
+![image](https://user-images.githubusercontent.com/107807305/179895452-4513a2de-7bc1-4fce-834c-14a263dc9a0d.png)
+
