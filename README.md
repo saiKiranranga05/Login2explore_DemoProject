@@ -67,4 +67,6 @@ SYNTEX USAGE
 
 ![image](https://user-images.githubusercontent.com/107807305/179895536-a3a931de-40ec-4abe-b815-aca25e216db6.png)
 
+![image](https://user-images.githubusercontent.com/107807305/179895586-c59db57c-a091-4680-8dc7-dadf565d3a41.png)
+
 
